@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Default-Web.config Connection String" description="Default 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=101.200.50.30;Initial Catalog=kdcjh;Integrated Security=False;User ID=sa;Password=s*4fup5s%ZHY^APv;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\gitProduct\\kdcjh\\EWeb\\EWeb\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Default']/@connectionString" />
+  </parameter>
+</parameters>
